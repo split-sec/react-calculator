@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Fira Code';
+    src: local('Fira Code'), url(./fonts/Fira_Code/FiraCode-Bold.ttf) format('tff');
+  }
+
+.welcome {
+    color: #39ff14;
+    font-family: 'Fira Code', monospace;
+}
